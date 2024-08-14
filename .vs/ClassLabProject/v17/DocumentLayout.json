@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\wwwroot\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\wwwroot\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\wwwroot\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\wwwroot\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\wwwroot\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\wwwroot\\signin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|c:\\users\\samag\\desktop\\book\\classlabproject-master\\blazorsupplier.webui\\blazorsupplier.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AA6DBB1-3320-41F8-894B-B398B05639CA}|BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj|solutionrelative:blazorsupplier.webui\\blazorsupplier.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\Pages\\Login.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:15:00.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:02:32.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:14:10.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:14:32.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:14:06.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:14:03.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:14:09.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:03:57.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\App.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:10:02.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\app.css",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T19:06:32.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\dashboard.css",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\wwwroot\\dashboard.css",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\dashboard.css",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\wwwroot\\dashboard.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T18:04:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\appsettings.json",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T19:06:57.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T18:14:01.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\Program.cs",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:01:17.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\wwwroot\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\bootstrap.min.css",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\wwwroot\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T19:06:44.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "signin.css",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\signin.css",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\wwwroot\\signin.css",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\wwwroot\\signin.css",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\wwwroot\\signin.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-14T19:06:41.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlazorSupplier.WebUI.csproj",
+              "DocumentMoniker": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj",
+              "RelativeDocumentMoniker": "BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj",
+              "ToolTip": "C:\\Users\\samag\\Desktop\\book\\ClassLabProject-master\\BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj",
+              "RelativeToolTip": "BlazorSupplier.WebUI\\BlazorSupplier.WebUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T19:01:07.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

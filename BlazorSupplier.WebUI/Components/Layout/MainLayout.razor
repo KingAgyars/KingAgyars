@@ -1,0 +1,44 @@
+﻿@inherits LayoutComponentBase
+@inject NavigationManager NavigationManager
+
+<nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
+    @if (ShowNavMenu)
+    {
+        <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Company name</a>
+        <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
+        <ul class="navbar-nav px-3">
+            <li class="nav-item text-nowrap">
+                <a class="nav-link" href="login">Sign out</a>
+            </li>
+        </ul>
+    }
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+        @if (ShowNavMenu)
+        {
+            <NavMenu />
+        }
+
+        <main role="main" class="@MainContentClass pt-3 px-4">
+            @Body
+        </main>
+    </div>
+</div>
+
+
+@code {
+    public bool ShowNavMenu { get; set; } = true;
+
+    protected override void OnInitialized()
+    {
+        // Check if the current URI contains 'login', and hide the NavMenu, search, and sign-out if it does.
+        if (NavigationManager.Uri.Contains("login"))
+        {
+            ShowNavMenu = false;
+        }
+    }
+
+    private string MainContentClass => ShowNavMenu ? "col-md-9 ml-sm-auto col-lg-10" : "col-12 d-flex justify-content-center align-items-center vh-100";
+}
